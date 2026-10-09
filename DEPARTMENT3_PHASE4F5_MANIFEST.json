@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.5 Canonical Visual Opportunity Regenerator",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F5_README.md",
+      "sha256": "6775d80039ed886f3a76cb0f9dad7072d10d66f402b6e8150e61c1521aab7722",
+      "bytes": 1305
+    },
+    {
+      "path": "run_department3_phase4f5_regenerator.py",
+      "sha256": "a63ec27a0af0cb5f4ced2668c89e42547efc901de898d7a1e38d4765c5f2af16",
+      "bytes": 111
+    },
+    {
+      "path": "src/department3/phase4f5_regenerator.py",
+      "sha256": "9c35d24081e59da99599696e35d2efc74e4dfc8bd5e5ff44b435591a9ce829a4",
+      "bytes": 12994
+    },
+    {
+      "path": "tests/test_department3_phase4f5_regenerator.py",
+      "sha256": "814dd01db6e49f9262aadbc1b051948444af19f0c6e0f557e48cc90e00d01bc7",
+      "bytes": 1449
+    }
+  ]
+}

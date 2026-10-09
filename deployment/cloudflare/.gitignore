@@ -1,0 +1,6 @@
+node_modules/
+.private-migration/
+.deploy-preview/
+.wrangler/
+.dev.vars
+.env

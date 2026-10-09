@@ -1,0 +1,14 @@
+# Inert restore template. Do not start this service as part of code restoration.
+services:
+  publishing:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    restart: "no"
+    env_file: /etc/instagram-agent/credentials.env
+    environment:
+      AGENT_ROOT: /data
+      AGENT_LIVE_ENABLED: "false"
+      AGENT_PUBLISH_DATES: ""
+    volumes:
+      - /srv/instagram-agent/data:/data

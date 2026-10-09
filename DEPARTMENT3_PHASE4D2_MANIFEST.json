@@ -1,0 +1,35 @@
+{
+  "package": "Department 3 Phase 4D.2 Legacy Strategy Opportunity Creative-Director Demotion",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4D2_README.md",
+      "sha256": "0efb586b2eae2d06d699942aa8e223e62f12b36dcb8fddd4182de1946ec91af7",
+      "bytes": 976
+    },
+    {
+      "path": "install_phase4d2.py",
+      "sha256": "ae19f9d5cd4c6a858be21eb3ff7f795ce5948ec52fb42e3b93309c0475fedd70",
+      "bytes": 3508
+    },
+    {
+      "path": "src/department3/legacy_live.py",
+      "sha256": "b38b41629313926d44d5eb1de1512e8f26068c46943c03c186e3cb80edbdb4c9",
+      "bytes": 1492
+    },
+    {
+      "path": "tests/test_department3_legacy_live.py",
+      "sha256": "83b3ca76f41339eefee1da359cf135a73547af1b4e039f2a020de22cca022ecc",
+      "bytes": 1064
+    },
+    {
+      "path": "tests/test_department3_phase4d2_entrypoint.py",
+      "sha256": "f0218a0683e5aa53ebeafd83374e35056d6e92ca86da4b30231280b76dec3e3d",
+      "bytes": 636
+    },
+    {
+      "path": "verify_phase4d2.py",
+      "sha256": "7eefce7c2efadde7c3b8d49651dc5c0e8a91283e75177b0f554d764bfc4acafd",
+      "bytes": 947
+    }
+  ]
+}

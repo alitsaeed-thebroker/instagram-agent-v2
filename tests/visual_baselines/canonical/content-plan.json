@@ -1,0 +1,31 @@
+{
+  "fixture_scope": "visual-regression-test-only",
+  "projects": [
+    {
+      "posts": [
+        {"post_number":1,"slides":[{"slide_number":1,"source_sha256":"c7960a0d6d253f472523c1c8c838c2e15277c742305c00c8b6715667c2f91833"}]},
+        {"post_number":2,"slides":[
+          {"slide_number":1,"source_sha256":"b21488f67c920cd32806107361bd6570b33b8b26d967310c101611d726482062"},
+          {"slide_number":2,"source_sha256":"da79279e1060117c57dbeb5e97a6c3a8e9db18b1e7f8279ed10d1088918a7776"},
+          {"slide_number":3,"source_sha256":"fea88071bfe6484332e5c7a737df7d88a549f1d47e12b2754da60fe7dddb2896"},
+          {"slide_number":4,"source_sha256":"11f42371088e86588e9d8712b4ee1fe45eaeede93986b4e487151ae62cae371b"},
+          {"slide_number":5,"source_sha256":"30e2332691fc4000f138ecec82e8f2875a4786c7a1d5b5a7f5e26b2ee8186ec9"},
+          {"slide_number":6,"source_sha256":"94de72bc6cb9ba7009e3a7f340fe7f2fe33897f84e9f0a5162f07aaa66660997"},
+          {"slide_number":7,"source_sha256":"a8a2f34fbdd9de64e954c3a8e2d37ece76d27d7dcab6fda49143c841cd600f9d"},
+          {"slide_number":8,"source_sha256":"1461aa6b07a0a377ebe023e1d462d7e4d24ca80fffac02c58cd0b37849a7ed72"},
+          {"slide_number":9,"source_sha256":"9713d9e312ffe8826a3d1feba5b059a26128f73310415d1e5dda0fb6d0a164f5"},
+          {"slide_number":10,"source_sha256":"06b9e474aaea5b1f64701fb8932e9c357cb8e5f68d5cf198c9029e1a5fb77512"}
+        ]},
+        {"post_number":3,"slides":[{"slide_number":1,"source_sha256":"d23bc6a4e2a9d93e2ab1b5cdb0075fc54ea55781d7d2c0801a1e5fa3b3edadb7"}]},
+        {"post_number":4,"slides":[
+          {"slide_number":1,"source_sha256":"00169c53960c88e2b86d95f2ab17c95c7c48ab7c8e9a1d5f82f52364005fde18"},
+          {"slide_number":2,"source_sha256":"87f2280e1bec8fb35e9a2a0f81662f4b5c96befc0c6464da35d2f0a7037da5d3"}
+        ]},
+        {"post_number":5,"slides":[
+          {"slide_number":1,"source_sha256":"f971df197963ef7ee79b6a730c1f718e7c319e5fe42707d9625789b73233b3f7"},
+          {"slide_number":2,"source_sha256":"642eb2dd55590d6737c4e2d24a79ced35a49809127fd7a4fed18a8545c9aaab3"}
+        ]}
+      ]
+    }
+  ]
+}

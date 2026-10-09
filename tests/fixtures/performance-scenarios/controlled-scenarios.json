@@ -1,0 +1,9 @@
+{
+  "scenario_version": "1.0.0",
+  "scenarios": {
+    "LOCATION_HIGH_SHARES": {"reach": 8000, "shares": 240, "saves": 140},
+    "ARCHITECTURE_HIGH_REACH": {"reach": 18000, "profile_visits": 220, "inquiries": 1},
+    "COMMERCIAL_HIGH_INQUIRY": {"reach": 4500, "inquiries": 18, "qualified_leads": 8}
+  },
+  "deterministic": true
+}

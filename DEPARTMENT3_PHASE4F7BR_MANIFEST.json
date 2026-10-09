@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.7B-R Beverly Hills Authentic Source Asset Recovery",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F7BR_README.md",
+      "sha256": "87792ccab141fc52a33ef473c4dd725c8200f8707daa79489af8af1d9bb4a627",
+      "bytes": 1616
+    },
+    {
+      "path": "run_department3_phase4f7br_source_asset_recovery.py",
+      "sha256": "8fd52e5df6f16453ba93733d0b373d1de51a1022970158ad9e2d3227463321fe",
+      "bytes": 123
+    },
+    {
+      "path": "src/department3/phase4f7br_source_asset_recovery.py",
+      "sha256": "3c685c2123c1f95ab6ae129b668be14e1fefd1948edd2ac1b85659b948716e1a",
+      "bytes": 13138
+    },
+    {
+      "path": "tests/test_department3_phase4f7br_source_asset_recovery.py",
+      "sha256": "0a0ea6d427abef4876193069690bddf4c06b8978f69b57965c4200a0868de7e9",
+      "bytes": 1068
+    }
+  ]
+}

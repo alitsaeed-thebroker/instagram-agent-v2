@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.4 Backward Compatibility Repair",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F4_README.md",
+      "sha256": "8feb80a5f02ea7afcfd1c568e8cc3506c5a72c06a9637db1305bd7f04bd1085d",
+      "bytes": 1234
+    },
+    {
+      "path": "install_phase4f4.py",
+      "sha256": "3405c48436d5353161059dc498a6f5192be0c327fa1e7ba9c755e15f6cb9e3de",
+      "bytes": 2165
+    },
+    {
+      "path": "phase4f_compat_fragment.txt",
+      "sha256": "5f727dde1ddc6f9d99dedd77450c5d3bb735e2851629157e9e3aecbbf11cc035",
+      "bytes": 1932
+    },
+    {
+      "path": "tests/test_department3_phase4f4_compatibility.py",
+      "sha256": "fba6b88b2f218f715b5a6e396b99f3a164029f016246ecc0c5466c08669b2ec0",
+      "bytes": 1486
+    }
+  ]
+}

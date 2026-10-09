@@ -1,0 +1,65 @@
+# ---------------------------------------------------------------------------
+# Phase 4F backward-compatibility helper API
+# ---------------------------------------------------------------------------
+# Earlier Phase 4F regression tests imported these helpers directly.
+# Phase 4F.3 hardened discovery and renamed/restructured some of them.
+# Keep these names as compatibility wrappers so the test suite remains stable
+# without weakening the hardened source-selection rules.
+
+def _artifact_matches_project(path: Path, project: str) -> tuple[bool, str]:
+    if _excluded(path):
+        return False, ""
+
+    path_hay = _norm(str(path))
+    wanted = tuple(x for x in _norm(project).split() if x)
+    if wanted and all(x in path_hay for x in wanted):
+        return True, "path"
+
+    doc = _try_read_json(path)
+    if doc is not None and _project_match(doc, project):
+        return True, "content"
+
+    return False, ""
+
+
+def _text_mentions_project(value: Any, project: str) -> bool:
+    return _project_match(value, project)
+
+
+def _is_forbidden_source(path: Path) -> bool:
+    return _excluded(path)
+
+
+def _walk_json_files(root: Path) -> list[Path]:
+    if not root.exists():
+        return []
+    return sorted(
+        p for p in root.rglob("*.json")
+        if p.is_file() and not _excluded(p)
+    )
+
+
+def _opportunities_from_inventory(doc: Any, project: str) -> list[dict[str, Any]]:
+    items = _extract_list(
+        doc,
+        (
+            "selected",
+            "selected_images",
+            "approved",
+            "assets",
+            "items",
+            "ranked",
+            "images",
+            "visual_assets",
+            "eligible_assets",
+        ),
+    )
+
+    return _normalize_opportunities(
+        [x for x in items if isinstance(x, Mapping)],
+        project,
+    )
+
+
+def _score_check(name: str, ok: bool, detail: str, *, critical: bool = False) -> Check:
+    return _check(name, ok, detail, critical)

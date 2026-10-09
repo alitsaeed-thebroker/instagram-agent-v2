@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4C.2 Installer Syntax Fix",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4C2_README.md",
+      "sha256": "3b91b772d439620d55d463fdf578e009e48a7f153f6d814a31d8f2099ad7788e",
+      "bytes": 1037
+    },
+    {
+      "path": "install_phase4c2.py",
+      "sha256": "05ac161474971e7843919b368b189f5f7c757fe721bde1aa3d937490d1480831",
+      "bytes": 6531
+    },
+    {
+      "path": "tests/test_department3_phase4c2_live_entrypoints.py",
+      "sha256": "b19f0df188068dd1db7f78b6f70f6b5ad7679c3c568ae94e8834d7a91e34dccc",
+      "bytes": 581
+    },
+    {
+      "path": "verify_phase4c2.py",
+      "sha256": "b742ef24cfdd9db61edb695a74d094d79ada74e8feb88c690bb3fb60c645115f",
+      "bytes": 886
+    }
+  ]
+}

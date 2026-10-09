@@ -1,0 +1,22 @@
+{
+  "fixture_scope": "visual-regression-test-only",
+  "generator": "deterministic RGB PNG fixture v1",
+  "items": [
+    {"output_hash":"9d15ad381d2feb61b5598dfba3e60fd080e5f2d6d247d3a7a03e8bbd404fc790","source_hash":"b9440da8d4c1bcb07b9f5f9edb595db7edcdc210a84c66aaddf7d93a5153554c"},
+    {"output_hash":"36b141311a67eca0fe1ba7749c4fffaaa08061b9631fbdf892fa393c603f58c4","source_hash":"e42d4b2e0d03f381cbcc0e1fc44f7e67051925ff5f4517d4208d276a02f0d0bd"},
+    {"output_hash":"dce5c0906c61bf4afff61f4395eea318bb7d1ee71f430e48e8ef98cdfdebb1fc","source_hash":"d6e795cf1108a48ba48b11bcd96474e4ca825ade8caa7a136bed951671de3d16"},
+    {"output_hash":"bec806a732eb9a09bb6a94ba36cba8b6eedb67fdb0159d774a0de276ec6e687d","source_hash":"6e54497bb1ff2fd98a4c547f05a4f79be6888fe0641f67e19e0ee3867fbaa1b3"},
+    {"output_hash":"565ab87ed275db3420468a657d4486cdb7fcb7aa66a6f7ac9c92fb0c1229d238","source_hash":"0b45bf87bec68fbbeee8798f9fa4f076b0ad97ff175d3bdee9e85eb15296b9f6"},
+    {"output_hash":"534354dc35c7ed535ce2a59f48875cc615b78e196994d75c7987b60da7b1a28b","source_hash":"c84554d38e670805337e8111ea44d8f1b5380df31c70c60a35cf452ac4092639"},
+    {"output_hash":"94706a59af6ec4a544f2665b1cc3835d8f9519a23eb82921a69dd28827bfe0b4","source_hash":"ad1ce90ca6a1810a94ea92d9592e9c0212a022b48c0b0875255877c09688622d"},
+    {"output_hash":"6be7d2efaea45ae22dc205d9ac9fe670ad128a48442294fcbac10dd63311490c","source_hash":"dc621c00aea427f2fd78c55d9eea56a5d81128a35884cd1d91fedb91f6ee0157"},
+    {"output_hash":"37ccbc0120abf5c9f8f66f7407c18d45a7f5c2222cac0a9c4ccf1d23a816ee06","source_hash":"a276d19f2191d0c5494d20ee1da19eaf115bb40ca4513e3ab651ba34dc8d2b34"},
+    {"output_hash":"eef14e686dfd462db4aac8992fd62ffe8b8fb366b03c87a52999552141c8a2dd","source_hash":"f11907f6c5278a83f574dba79dad57081a86b4424e1d3e17a07b87afdbd1de20"},
+    {"output_hash":"60dacc106bf6384a00d8476a51c0f97244a43f993080510b38051aeb01dbc6ca","source_hash":"0a182789592a0db832873c1988ee438de6385c273b58a38b79ddc7a0f5026d27"},
+    {"output_hash":"24614a0605662f3ade2dc188c4fafc0c3dc6075994c920dc51799f85d6e8980a","source_hash":"2144bf0bba72430c920f015c9b2f24197e9e2ac6f7b45017aea64ab738dbbc13"},
+    {"output_hash":"36c4899f48d5e49a6b4689f26a5e374628f050e6a43b286ba648957517affac3","source_hash":"44893c4c9c3e1dd1dacb38af3d5f04b10f8f14b05b3358e8a343f590db5f2bb3"},
+    {"output_hash":"7a9904e9fcab0299edab1ee78a8221fae925a58fe0c97e2fa2455b2a09c5aeeb","source_hash":"74daf531c27c8b3acd0b7ed585ce47ee3b4afc5fa16e6146e44409e2d7d58ddd"},
+    {"output_hash":"672a6785efd525301a4797f2bf5168d06bd2fdc77ad24363d844a5224545ed84","source_hash":"ad371082fff42162fc7f771eb3477f0608953e4a6b183c2d7c5e2142a9427f23"},
+    {"output_hash":"3df327380be432327c458ea2f214a8a259c38791a404f0a68cb48c6972e26123","source_hash":"57bcc14d2f6b902b8983538c53c0ea9b1bf0e164ac94975ecf96c096a2d175af"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.7C Canonical Visual Opportunity Reconstruction from Authentic Asset Intelligence",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F7C_README.md",
+      "sha256": "ec39b5c720e5c68a43c460fb6a063b0faa66b823da0b0acfef126d62e8320996",
+      "bytes": 1413
+    },
+    {
+      "path": "run_department3_phase4f7c_opportunity_reconstruction.py",
+      "sha256": "d3e7fd51ef1a4ef9903761390244bb40a6f5f5956ef29917ba66436e5d4fe13b",
+      "bytes": 127
+    },
+    {
+      "path": "src/department3/phase4f7c_opportunity_reconstruction.py",
+      "sha256": "f368f522251667df27e1ea009602dc491d06207d4b895f77aae27c1ae7d9921f",
+      "bytes": 15422
+    },
+    {
+      "path": "tests/test_department3_phase4f7c_opportunity_reconstruction.py",
+      "sha256": "7c7f035094c7dd221c08a35bf217bab66f493230a383d45936cbe9172e4555b2",
+      "bytes": 2897
+    }
+  ]
+}

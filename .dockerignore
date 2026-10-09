@@ -1,0 +1,8 @@
+**/.env
+**/.env.*
+input/
+output/
+state/
+.test-tmp/
+**/__pycache__/
+.git/

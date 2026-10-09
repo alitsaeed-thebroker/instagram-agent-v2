@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.6 Canonical Visual Opportunity Quality Reconstruction",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F6_README.md",
+      "sha256": "fef3be421a574093660de0c392c5b76a963d35dbec631d384e3a4f2e73f533ab",
+      "bytes": 1289
+    },
+    {
+      "path": "run_department3_phase4f6_quality_reconstruction.py",
+      "sha256": "ff4906a2d2b3d4084b3dac9f0da9d86007d69e6dd2ce4a865b227669916ccb44",
+      "bytes": 122
+    },
+    {
+      "path": "src/department3/phase4f6_quality_reconstruction.py",
+      "sha256": "a497ed29873d0d1bc2a09c14f54ef9229c5a2576d9f1b025ffb54fc4c2f7e459",
+      "bytes": 17498
+    },
+    {
+      "path": "tests/test_department3_phase4f6_quality_reconstruction.py",
+      "sha256": "ccd0ef881c58ed31db3414482d9279e82b8061a8befe5cf92907d46a8ffe363c",
+      "bytes": 1448
+    }
+  ]
+}

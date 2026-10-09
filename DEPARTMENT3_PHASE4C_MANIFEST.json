@@ -1,0 +1,45 @@
+{
+  "package": "Department 3 Phase 4C Live Orchestration Wiring",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4C_README.md",
+      "sha256": "c0450416e31f7e2abeee63064e5f6ea6edaf63978d196d73036633460949d2f6",
+      "bytes": 2403
+    },
+    {
+      "path": "install_phase4c.py",
+      "sha256": "43212cd2b3b9f727348b57e1f767af144e5f446d5a140d6846aa27936272c15d",
+      "bytes": 2748
+    },
+    {
+      "path": "src/department3/PHASE4C_INIT_FRAGMENT.txt",
+      "sha256": "28094e666828aa292d8a57ded00e75dacfcdbf7495b4b93535151abd69a7220f",
+      "bytes": 271
+    },
+    {
+      "path": "src/department3/live_orchestration.py",
+      "sha256": "65de1ece3d9c87189fb6d3897238fca5b5aa7dc625b83054582d55217f373a46",
+      "bytes": 3722
+    },
+    {
+      "path": "src/department3/runtime_guard.py",
+      "sha256": "747dd1194b4fbec300ead45666ad5fffab923bc86a79d7c58a005095bf90571b",
+      "bytes": 1586
+    },
+    {
+      "path": "tests/test_department3_live_orchestration.py",
+      "sha256": "95dc5da17044a64b73d05fb657b1d887a9c4aaeb8339df762d07e06e74b32408",
+      "bytes": 1657
+    },
+    {
+      "path": "tests/test_department3_runtime_guard.py",
+      "sha256": "2ecb11a318496d8774128109f18bee2507a0fe05c967fca4df1ffd0877b3c3cd",
+      "bytes": 978
+    },
+    {
+      "path": "verify_phase4c.py",
+      "sha256": "fe404210c144d9d6e4d763aaaf56ca38d2861c3d871ae83db2ccab2de4feec0d",
+      "bytes": 802
+    }
+  ]
+}

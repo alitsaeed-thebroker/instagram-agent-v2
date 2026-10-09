@@ -1,0 +1,20 @@
+{
+  "package": "Department3 Phase4B.1 Advisory Fingerprint Provenance Fix",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4B1_README.md",
+      "sha256": "6e9b97855656c9dece4ec0d830a04fbd7798ecfbac6c137b33a4d1887b79b64c",
+      "bytes": 1075
+    },
+    {
+      "path": "src/department3/integration.py",
+      "sha256": "46177182d022b426aefd19593c46bd21b4dd13d96ae42adffcb1548096c80a87",
+      "bytes": 3443
+    },
+    {
+      "path": "tests/test_department3_phase4b1_fingerprint.py",
+      "sha256": "61be1973c8264127b627fd115ba0e0907bf56b6dabdaa48faedcf13e08a9a2d0",
+      "bytes": 2893
+    }
+  ]
+}

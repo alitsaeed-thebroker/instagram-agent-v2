@@ -1,0 +1,26 @@
+{
+  "package": "Department 3 Re-Audit \u2014 Phase 1 Authority & Boundary Audit",
+  "policy": "non-destructive; adds audit runner and regression test only",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE1_README.md",
+      "sha256": "35c559395161063512075713fa92e04728d40f6dda8011eed94e84825db2e43b",
+      "bytes": 1139
+    },
+    {
+      "path": "run_department3_phase1_audit.py",
+      "sha256": "503dbffe469fe4a499447879f716b4b90bb912915d9f9a31249a1d6a25085e17",
+      "bytes": 154
+    },
+    {
+      "path": "tests/test_department3_phase1_audit.py",
+      "sha256": "725145f6549cd8791f75ea8c77febc944e371378e69d63aff5fa248f9a801cbc",
+      "bytes": 2143
+    },
+    {
+      "path": "tools/department3_phase1_audit.py",
+      "sha256": "0b4b09f8aa4eef7949b41577a60444468af9a2aaad027dc5c723f3209db0d61a",
+      "bytes": 19513
+    }
+  ]
+}

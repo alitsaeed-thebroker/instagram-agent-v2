@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4C.1 Live Bridge Installation Fix",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4C1_README.md",
+      "sha256": "217e6ea1d49d53f5a0615b69cfc6084efed5e65d0daff72a2663412c0e4671fe",
+      "bytes": 1261
+    },
+    {
+      "path": "install_phase4c1.py",
+      "sha256": "f7abbfdccc4e7ffd4bcd1eb7e4341c8629d4874ef6315ca010f9444c68ce12af",
+      "bytes": 590
+    },
+    {
+      "path": "tests/test_department3_phase4c1_live_entrypoints.py",
+      "sha256": "b19f0df188068dd1db7f78b6f70f6b5ad7679c3c568ae94e8834d7a91e34dccc",
+      "bytes": 581
+    },
+    {
+      "path": "verify_phase4c1.py",
+      "sha256": "056f107f9d9fc63788ba6df6af2f29d74d7e5682f304757a9bd8ca83894ece11",
+      "bytes": 732
+    }
+  ]
+}

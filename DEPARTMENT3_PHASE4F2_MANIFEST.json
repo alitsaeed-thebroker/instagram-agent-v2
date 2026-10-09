@@ -1,0 +1,20 @@
+{
+  "package": "Department 3 Phase 4F.2 Self-Reference Exclusion Fix",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F2_README.md",
+      "sha256": "61ec30df5991ed49d88782c2f759625685ea389f7a32f7ae4ea1f9a900b60eb7",
+      "bytes": 1141
+    },
+    {
+      "path": "src/department3/phase4f_certification.py",
+      "sha256": "8cf8f78eed0adf94f6e71955d9b869b0d6c786dae8423ae33cf382630f4182d7",
+      "bytes": 22430
+    },
+    {
+      "path": "tests/test_department3_phase4f2_self_reference.py",
+      "sha256": "90a8f94006ea91931b126d32b277073314ba932b95f379e1dad6d36b5b1752aa",
+      "bytes": 1220
+    }
+  ]
+}

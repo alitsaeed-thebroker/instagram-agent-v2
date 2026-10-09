@@ -1,0 +1,30 @@
+{
+  "package": "Department 3 Phase 4F Real Project Strategy Certification Runner",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F_README.md",
+      "sha256": "45e94f53b9c732300b0cdefb66895d6fbcfb310ad812273a9b5406c318742d14",
+      "bytes": 2143
+    },
+    {
+      "path": "run_department3_phase4f_certification.py",
+      "sha256": "67e16c3f94952fbffbb5f05e51c84699b9a840ee9e98ed3e3cc6e5be43f66c91",
+      "bytes": 112
+    },
+    {
+      "path": "src/department3/phase4f_certification.py",
+      "sha256": "df43de039cbb544e347fefb27da4f01e339897d9fe7fd0e898a169825d072c93",
+      "bytes": 17323
+    },
+    {
+      "path": "tests/test_department3_phase4f_certification.py",
+      "sha256": "dd71fbd3bfbf090e89f74d8d76ee4bafaef0087a6a31c043cbf31cb7e7fc0755",
+      "bytes": 1040
+    },
+    {
+      "path": "verify_phase4f.py",
+      "sha256": "fd5ec44635caf49f3a457f89996bc3ffdf4f9e5ab070f3f6f6d475db325cf1b2",
+      "bytes": 1348
+    }
+  ]
+}

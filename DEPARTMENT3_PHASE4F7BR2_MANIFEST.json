@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.7B-R2 Beverly Hills Catalogue Embedded Visual Recovery",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F7BR2_README.md",
+      "sha256": "b8191fcf8c5272335b0e7c7f56180de25d425a84eb2204489f726ee7e09d5812",
+      "bytes": 1678
+    },
+    {
+      "path": "run_department3_phase4f7br2_catalogue_visual_recovery.py",
+      "sha256": "87f6838044b12c299d0f555d942407f0754f4298adf6f8539f21d986633c948c",
+      "bytes": 128
+    },
+    {
+      "path": "src/department3/phase4f7br2_catalogue_visual_recovery.py",
+      "sha256": "1e21bafd12b20fbad8d8c32c83bc77f07928e8a5cf87d42978aeb61350b1abae",
+      "bytes": 14795
+    },
+    {
+      "path": "tests/test_department3_phase4f7br2_catalogue_visual_recovery.py",
+      "sha256": "304b31f46a32bc0df7b5d0dde3569e937eef131594c529f7b968cd374e102566",
+      "bytes": 716
+    }
+  ]
+}

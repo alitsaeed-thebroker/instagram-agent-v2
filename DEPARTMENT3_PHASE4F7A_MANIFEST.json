@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.7A Authentic Upstream Semantic Discovery Audit",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F7A_README.md",
+      "sha256": "ec05197527c1edcf945ec5d57ce602164e31becea00179232c3d5de0a055e859",
+      "bytes": 1609
+    },
+    {
+      "path": "run_department3_phase4f7a_semantic_discovery.py",
+      "sha256": "71cc9294085b336e839a98eb97c2848d1dbcf5eea27d798a711db656d6a7233d",
+      "bytes": 119
+    },
+    {
+      "path": "src/department3/phase4f7a_semantic_discovery.py",
+      "sha256": "e7f0e774d63ff1bd5d686f400076ee2a8626a907cbde36e70b54f8b539037aaf",
+      "bytes": 16986
+    },
+    {
+      "path": "tests/test_department3_phase4f7a_semantic_discovery.py",
+      "sha256": "05f2a5bfacf078e39c177b1ce4c9c94b43d10c340886b974d63029a4eeb8e7bb",
+      "bytes": 1394
+    }
+  ]
+}

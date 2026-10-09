@@ -1,0 +1,20 @@
+{
+  "package": "Department 3 Phase 4F.3 Source-Type Hardening",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F3_README.md",
+      "sha256": "cfb8441ecdfd2f12808095639eb723b8468a8d494baa73098bc0c682d6704e25",
+      "bytes": 1166
+    },
+    {
+      "path": "src/department3/phase4f_certification.py",
+      "sha256": "8806f3ad0f62e0532c387941d6fdfe9ae8c89d8e43983a18cd7ce137328b5555",
+      "bytes": 17721
+    },
+    {
+      "path": "tests/test_department3_phase4f3_source_type.py",
+      "sha256": "d746cb5471446f83b32c725f3a2657078a0f10ee6fa05969b086eaaac0f89910",
+      "bytes": 696
+    }
+  ]
+}

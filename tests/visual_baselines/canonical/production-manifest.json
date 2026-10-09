@@ -1,0 +1,9 @@
+{
+  "fixture_scope": "visual-regression-test-only",
+  "api_calls": {
+    "ai": 0,
+    "image_generation": 0,
+    "meta": 0
+  },
+  "publishing_writes": 0
+}

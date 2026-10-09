@@ -1,0 +1,25 @@
+{
+  "package": "Department 3 Phase 4F.7B Authentic Upstream Asset Intelligence Rebuild",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F7B_README.md",
+      "sha256": "36d111592ae95d2b94a78a78d15946d50dd3de553a51ffba5a310b46c5fecda8",
+      "bytes": 1489
+    },
+    {
+      "path": "run_department3_phase4f7b_asset_intelligence_rebuild.py",
+      "sha256": "4a0e81397fcbc993a2ac5aa9d4a7294cf654306945d2b2fc1c89f852b418bcb6",
+      "bytes": 127
+    },
+    {
+      "path": "src/department3/phase4f7b_asset_intelligence_rebuild.py",
+      "sha256": "46233ea1b8d2ec469724c5d246c20615d213e8068822107dce53e462c9956277",
+      "bytes": 17622
+    },
+    {
+      "path": "tests/test_department3_phase4f7b_asset_intelligence_rebuild.py",
+      "sha256": "df0a6c7bec38556f4bbd3582674a76ee900119947018cfa29ad50b3ac6026d9e",
+      "bytes": 1424
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "package": "Department 3 Phase 4F.1 Real Artifact Discovery Fix",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4F1_README.md",
+      "sha256": "03448cefea52cde9e379247a70d7166e1182f1c4bba093204ab75f59758b2bc2",
+      "bytes": 1097
+    },
+    {
+      "path": "src/department3/phase4f_certification.py",
+      "sha256": "3e965b60b970e5e7a0b13f2c17ed673b40e721f3b118c20e3390ffd0e7355ade",
+      "bytes": 22094
+    },
+    {
+      "path": "tests/test_department3_phase4f1_discovery.py",
+      "sha256": "fc7bc304d1fc0f0c9f3d0b7e8a5aec4ecf5052ef15df06dac3db05eddbeafd7b",
+      "bytes": 741
+    }
+  ]
+}

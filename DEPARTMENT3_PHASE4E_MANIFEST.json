@@ -1,0 +1,30 @@
+{
+  "package": "Department 3 Phase 4E Real-Estate Strategy Brain Upgrade",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4E_README.md",
+      "sha256": "5ca80f18a4fa8f01b11efec8e8e92618536b91e4e50248ecc0a7b65209cff2be",
+      "bytes": 1757
+    },
+    {
+      "path": "src/department3/real_estate_brain.py",
+      "sha256": "146060a60381eb5ee01a6ecb0e299c1859930b4a989ac62f2cff4ccef9e0484f",
+      "bytes": 13366
+    },
+    {
+      "path": "src/department3/real_estate_orchestrator.py",
+      "sha256": "6681f51653b1e47b831eef6e72c82ca30801d2aef9a8a89ad5fec6e4a97c444a",
+      "bytes": 1976
+    },
+    {
+      "path": "tests/test_department3_real_estate_brain.py",
+      "sha256": "9494a0647f9adfe55de3f56aa3591dd181988ef3438c2ef470f38decbe6dd240",
+      "bytes": 3378
+    },
+    {
+      "path": "tests/test_department3_real_estate_orchestrator.py",
+      "sha256": "9c23bf1a75c06fc60c1c89d2d59d2387d79a9949fe6ef5984541678f09d0950f",
+      "bytes": 742
+    }
+  ]
+}

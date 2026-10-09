@@ -1,0 +1,40 @@
+{
+  "package": "Department3 Phase4A Authority Consolidation Foundation",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4A_README.md",
+      "sha256": "603f8a6af268b671d9327046794fb122aa2cf8ec935ad1cd8d80e6bb0f61ff12",
+      "bytes": 2224
+    },
+    {
+      "path": "install_phase4a.py",
+      "sha256": "df2f58b0ecb8700f27d69fd6fac60ae31a69e1ccc622522fe387ac84be356df2",
+      "bytes": 2027
+    },
+    {
+      "path": "src/department3/__init__.py",
+      "sha256": "7ce1ff5fc0bd1bf022f259c2ac8dd7b7067b9107c57d149b6865363ff43bf0e6",
+      "bytes": 610
+    },
+    {
+      "path": "src/department3/authority.py",
+      "sha256": "c2c930ca46f7c53f7285bb861453825aa675e333f6d6b42914d83117d2d97ab8",
+      "bytes": 7099
+    },
+    {
+      "path": "src/department3/strategy_authority.py",
+      "sha256": "2fd4370df8311ce67742c3624a15f23f5cc182b5bce001b468354802f0fce664",
+      "bytes": 8925
+    },
+    {
+      "path": "tests/test_department3_authority_policy.py",
+      "sha256": "b5b32d35549d6da0be40f947b47499fe73caaa268af208cd9ec437e7f2d15586",
+      "bytes": 2223
+    },
+    {
+      "path": "tests/test_department3_strategy_authority.py",
+      "sha256": "08b4602f698fca0fb43890406124729298c7356fbc2f1f3b249e0ac7d97c9368",
+      "bytes": 3063
+    }
+  ]
+}

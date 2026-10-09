@@ -1,0 +1,13 @@
+{
+  "name": "instagram-agent-cloud",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test policy.test.mjs publisher.test.mjs worker.test.mjs",
+    "deploy": "wrangler deploy",
+    "login": "wrangler login"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

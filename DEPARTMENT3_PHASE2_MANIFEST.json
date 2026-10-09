@@ -1,0 +1,26 @@
+{
+  "package": "Department 3 Phase 2 Behavioral Classification",
+  "non_destructive": true,
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE2_README.md",
+      "sha256": "226fac045b6e4ee411db467b8fb82868750697648f1c13c1446a20bf53bb15d0",
+      "bytes": 1402
+    },
+    {
+      "path": "run_department3_phase2_behavioral_classification.py",
+      "sha256": "b7dcdb8c65ede0e74576e90c770c2ef92509bce90bc0775615949e44fbc15153",
+      "bytes": 304
+    },
+    {
+      "path": "tests/test_department3_phase2_behavioral_classification.py",
+      "sha256": "ad8ee79e84cee36d69d859cec2f49cec689f9c8e397cb496953eff54b62ad5ed",
+      "bytes": 1882
+    },
+    {
+      "path": "tools/department3_phase2_behavioral_classification.py",
+      "sha256": "5aae91befaf96bb8d2196ed1892b4f969f65f44210a17154b22764aa9ddc8fca",
+      "bytes": 17924
+    }
+  ]
+}

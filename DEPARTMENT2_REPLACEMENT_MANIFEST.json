@@ -1,0 +1,299 @@
+{
+  "package": "Department 2 Final Certification — Phases 1–10",
+  "created_at_utc": "2026-08-16T05:38:48.304269+00:00",
+  "source_repository": "/mnt/data/instagram-agent-work/instagram-agent",
+  "replacement_policy": {
+    "included": "production source files and regression tests required by Department 2 Phases 1–10",
+    "excluded": [
+      ".env and credentials",
+      "output/ project artifacts",
+      "state/ publishing state and ledgers",
+      "data/ runtime/research libraries",
+      "archive/ reset audits",
+      "debug logs and baseline snapshots",
+      "unrelated Creative Research path test changes"
+    ]
+  },
+  "certification": {
+    "phase_1_10_focused": "150 passed; 5 adversarial subtests passed; 0 failed",
+    "full_repository": "824 passed; 2 failed; 1 skipped; 44 subtests passed",
+    "known_unrelated_failures": [
+      "Brand Composer pixel-preservation regression",
+      "Creative Research Windows/Linux path-separator assertion"
+    ],
+    "legacy_authority_bypass_hits_departments_3_5": 0,
+    "production_compile": "PASS"
+  },
+  "files": [
+    {
+      "path": "app.py",
+      "category": "production",
+      "sha256": "880193ae248c42848c60d6c38a2f3d291bd4efb3256de34dde902cced8f614b3",
+      "bytes": 129784
+    },
+    {
+      "path": "src/ai/agents/knowledge_agent.py",
+      "category": "production",
+      "sha256": "03d578a589c712b0e4280d7342d968deaac474f5c8f2c8bab5c547b6a86b2ec2",
+      "bytes": 25568
+    },
+    {
+      "path": "src/content/inventory.py",
+      "category": "production",
+      "sha256": "e09fbc5d0ca74b7619cb9c47a400a93ea059d25ab9d7b6194c09f36aaa1ee300",
+      "bytes": 33426
+    },
+    {
+      "path": "src/core/text_document_reader.py",
+      "category": "production",
+      "sha256": "10f1805b1152526031ea58f39d8457acd5339e36c0d379c2e7ede3df0bad6fd0",
+      "bytes": 10114
+    },
+    {
+      "path": "src/department1/pipeline.py",
+      "category": "production",
+      "sha256": "fbd0aa75c916002fea6108518d75a3c49095ff36c342764a8de9d473bf446b1b",
+      "bytes": 33185
+    },
+    {
+      "path": "src/execution/stages.py",
+      "category": "production",
+      "sha256": "07f77d1085f3ffe65a4520b799699dc69d6855a77387d7fc8d2759125cc15eaa",
+      "bytes": 20496
+    },
+    {
+      "path": "src/execution/lineage.py",
+      "category": "production",
+      "sha256": "704ae5a2734377a4ce51e4a0d4bb8ab74f2394d00e27db2d3d9bed19bdee6e01",
+      "bytes": 3652
+    },
+    {
+      "path": "src/knowledge/audit.py",
+      "category": "production",
+      "sha256": "04ff45318675a07c8216d0bc1043145177f86867d4a3a9a74910a0240aadd291",
+      "bytes": 7723
+    },
+    {
+      "path": "src/knowledge/authority.py",
+      "category": "production",
+      "sha256": "2da16beafe9bb16db1657fd64444ae8b21cd06be005b5d09cb0d2795bfe1e926",
+      "bytes": 8650
+    },
+    {
+      "path": "src/knowledge/commercial.py",
+      "category": "production",
+      "sha256": "3cdeae45220e520e6b161e69b9c90bf7665c4b75c3e6b55a652b4ae036da6773",
+      "bytes": 27360
+    },
+    {
+      "path": "src/knowledge/consumer.py",
+      "category": "production",
+      "sha256": "10a213e467ff52f8117e252ab3b1acb9031cf5a69fbc2a86651a0d4b3a57dca5",
+      "bytes": 6451
+    },
+    {
+      "path": "src/knowledge/evaluator.py",
+      "category": "production",
+      "sha256": "c748c70e915b154399d76d8bc085bb6a7fa9f2c673855562ec07538e35d68b2f",
+      "bytes": 14297
+    },
+    {
+      "path": "src/knowledge/fusion.py",
+      "category": "production",
+      "sha256": "d2eb9cb653e879be357e0de10c04359ec6b2071338bb9ab7c06dc3fa3702bea7",
+      "bytes": 10285
+    },
+    {
+      "path": "src/knowledge/handoff.py",
+      "category": "production",
+      "sha256": "391287f58ce157f8a1a255e09a7cf8001cf6bd9b643adbc9ffd769205f8a97c4",
+      "bytes": 8168
+    },
+    {
+      "path": "src/knowledge/relational.py",
+      "category": "production",
+      "sha256": "6172aa78df90a7276fc1f5b56cdd46ce41848233892ea371e8035a0c4c54eb98",
+      "bytes": 22179
+    },
+    {
+      "path": "src/knowledge/schema.py",
+      "category": "production",
+      "sha256": "3dd023499513740c84e47ec84dd153b189392a83c9c869f054a0980806becbd4",
+      "bytes": 7785
+    },
+    {
+      "path": "src/knowledge/storage.py",
+      "category": "production",
+      "sha256": "ee78cb1eacbd4940140bfcd467afeae1b2781eb4bb392f4cc3f32e187b8bbf1c",
+      "bytes": 3092
+    },
+    {
+      "path": "src/plan_integrity.py",
+      "category": "production",
+      "sha256": "c47f6807fbd4fd642643d3eb0da25fa621c847c026e4bb85c17a32397b6fda8c",
+      "bytes": 15577
+    },
+    {
+      "path": "src/planning/engine.py",
+      "category": "production",
+      "sha256": "1d3a0cc2be1ed5721dc5f95c45b60ebfe292a8f29d30ec8a6a9d5d5db17c41ad",
+      "bytes": 43132
+    },
+    {
+      "path": "src/post_package/grounding.py",
+      "category": "production",
+      "sha256": "99013fa32088dddd9a0f18346f1f6ace695d4945c6f52f59a2d6d689d5b225c3",
+      "bytes": 5648
+    },
+    {
+      "path": "src/post_package/pipeline.py",
+      "category": "production",
+      "sha256": "61684923045db5e7003274470fea2850de16e40cd10e2e581c0d8ecb07c11a49",
+      "bytes": 43784
+    },
+    {
+      "path": "src/publishing/foundation.py",
+      "category": "production",
+      "sha256": "2eeb291e749bfdfc67d49dc36dca079fcacc0b29793194d67b2515b3ff2812eb",
+      "bytes": 46316
+    },
+    {
+      "path": "src/social_review/dashboard.py",
+      "category": "production",
+      "sha256": "0136efe1d65100b230aadb556eed2ea3ff4aa8fb603aa64895717c932b4a95e8",
+      "bytes": 26718
+    },
+    {
+      "path": "tests/test_asset_first_planning.py",
+      "category": "test",
+      "sha256": "0bcc51b61c023c165a2bf25f46227354f528536ff24d24e465ed9c06fdfcb69b",
+      "bytes": 4941
+    },
+    {
+      "path": "tests/test_brand_composer.py",
+      "category": "test",
+      "sha256": "8943772ed081d0c76f485fc53ba5b7f5418cfdd8f7c2ceecb2e5e745ebf75f2d",
+      "bytes": 14947
+    },
+    {
+      "path": "tests/test_commercial_intelligence.py",
+      "category": "test",
+      "sha256": "47d675639f19f82720a3b3db51d143318a2e976fc05ceda343efa6fb9f9e330e",
+      "bytes": 9969
+    },
+    {
+      "path": "tests/test_content_opportunity_inventory.py",
+      "category": "test",
+      "sha256": "ed2379c3c71489cd0863a09d2e340197418730f6bbf0a76197d7473f6f41e99a",
+      "bytes": 29980
+    },
+    {
+      "path": "tests/test_fact_grounding.py",
+      "category": "test",
+      "sha256": "be207a49e82f3540fbcd38c20b96caefc10570a224049db53e6d18c06a201fa5",
+      "bytes": 5130
+    },
+    {
+      "path": "tests/test_knowledge.py",
+      "category": "test",
+      "sha256": "a8910ef7d8ea735648e1d42d362b985944f64c359e2b3363ededcf76f2885c27",
+      "bytes": 2179
+    },
+    {
+      "path": "tests/test_knowledge_evaluator.py",
+      "category": "test",
+      "sha256": "c937044a5751323eb4e8390df6026ab4c69acafa224db908e196df9f55a6d8c8",
+      "bytes": 3814
+    },
+    {
+      "path": "tests/test_knowledge_fusion_regression.py",
+      "category": "test",
+      "sha256": "7435f1a243d18078677f97ae9bc3c7cd32d7247c86a2aa88ae5ec1f169f87d89",
+      "bytes": 5188
+    },
+    {
+      "path": "tests/test_orchestration_regression.py",
+      "category": "test",
+      "sha256": "12bc095ee5ce9d5f77a7d7616950e578baf8115a4723b14b6de95b9331e50fd0",
+      "bytes": 7320
+    },
+    {
+      "path": "tests/test_plan_integrity.py",
+      "category": "test",
+      "sha256": "c23e293249a9f9d6469e997c90fb11588e3b91e8371500c3ebdd25b8d62c13a1",
+      "bytes": 7320
+    },
+    {
+      "path": "tests/test_post_package.py",
+      "category": "test",
+      "sha256": "e37574ed2bd40aafdc32fd7380448b5bd28e561b73a753575832e8a41946e379",
+      "bytes": 4794
+    },
+    {
+      "path": "tests/test_publishing.py",
+      "category": "test",
+      "sha256": "1d68b211d044c7bf89e9e4c1dc0191514e5520f17093d362e1b7b67353ffc1b3",
+      "bytes": 7209
+    },
+    {
+      "path": "tests/test_social_review.py",
+      "category": "test",
+      "sha256": "17ea435274b4f3dfdcb88574ff16875ed9d71a1d5bca71971c1d2a27c7e53a3a",
+      "bytes": 4673
+    },
+    {
+      "path": "tests/test_authority_freshness.py",
+      "category": "test",
+      "sha256": "34a42e23794ee7966a25fc133904925bf577e9c618107902f10a1cce41ae273c",
+      "bytes": 5780
+    },
+    {
+      "path": "tests/test_canonical_consumer_migration.py",
+      "category": "test",
+      "sha256": "79d676fd90a0142550a0e0a7fff3aca9c96103ce9aa6cb8d9ae2b0b837383309",
+      "bytes": 5927
+    },
+    {
+      "path": "tests/test_commercial_relationships.py",
+      "category": "test",
+      "sha256": "cf0c5d5a966342a8517197953c329c794929eca7c6b5b5e0326077576a9356e4",
+      "bytes": 7619
+    },
+    {
+      "path": "tests/test_department2_adversarial_stress.py",
+      "category": "test",
+      "sha256": "4f723ddca1054d6058b8ba1d0dc845c2a64aa09493bcdaa2d8a09d1428fbdf8b",
+      "bytes": 13365
+    },
+    {
+      "path": "tests/test_department2_handoff.py",
+      "category": "test",
+      "sha256": "2f319022235f9dd5eacf32df47a584350129513ebdae499dcca1b23b45ea56cc",
+      "bytes": 5133
+    },
+    {
+      "path": "tests/test_difficult_input_provenance.py",
+      "category": "test",
+      "sha256": "094d0a5062f31557b6c47789c357c19e6e94496a542ad0e7cd2e7c6f0f06f048",
+      "bytes": 11728
+    },
+    {
+      "path": "tests/test_lineage_fingerprints.py",
+      "category": "test",
+      "sha256": "9712423836f1c258cab5a8cba826f1d1a3d9e4f62c142773a523e4dfe9d11773",
+      "bytes": 4229
+    },
+    {
+      "path": "tests/test_relational_knowledge.py",
+      "category": "test",
+      "sha256": "e17472898aa2ae2bfcadff8c925c69ab3a6f14dcbaf4892f5a31465c6e703261",
+      "bytes": 5863
+    },
+    {
+      "path": "tests/test_universal_provenance.py",
+      "category": "test",
+      "sha256": "49377075276061f77e99b497a85322e1de0e7cf07a3106b118bb0438dd18079c",
+      "bytes": 7959
+    }
+  ]
+}

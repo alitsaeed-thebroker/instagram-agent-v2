@@ -1,0 +1,21 @@
+{
+  "package": "Department 3 Phase 4D.0 Exact Legacy Live Call-Site Capture",
+  "non_destructive": true,
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4D0_README.md",
+      "sha256": "d8f2d00ae23932b3501f9af24122f5e15e173303c17a892237aaf72036b4071b",
+      "bytes": 1170
+    },
+    {
+      "path": "tests/test_department3_phase4d0_capture.py",
+      "sha256": "bddca94e63b4166272002161a3138dce470813a354e954ce90bd36dc1b85ad83",
+      "bytes": 529
+    },
+    {
+      "path": "tools/department3_phase4d0_capture.py",
+      "sha256": "c0f7778f4d29ca1e2be7becd16be992d2a3a30609cb0d9b8c17fd26b7368802e",
+      "bytes": 9053
+    }
+  ]
+}

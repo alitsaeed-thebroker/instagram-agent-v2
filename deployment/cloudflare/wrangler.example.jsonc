@@ -1,0 +1,26 @@
+{
+  "name": "instagram-agent-publisher-restore",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-07",
+  "workers_dev": true,
+  "vars": {
+    "LIVE_ENABLED": "false",
+    "SCHEDULED_HOURS_UTC": "",
+    "PAUSED_CAMPAIGNS": "[]",
+    "ACCOUNT_ID": "",
+    "PUBLISH_DATES": "",
+    "LEDGER_SNAPSHOT_SHA256": "",
+    "META_API_VERSION": "v23.0",
+    "APPROVED_SEQUENCE_OVERRIDE": "{}",
+    "ADDITIONAL_CAMPAIGNS": "[]"
+  },
+  "triggers": { "crons": [] },
+  "observability": { "enabled": true, "head_sampling_rate": 1 },
+  "durable_objects": {
+    "bindings": [{ "name": "ACCOUNT_STATE", "class_name": "AccountState" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["AccountState"] }],
+  "r2_buckets": [
+    { "binding": "PRIVATE_PACKAGES", "bucket_name": "REPLACE_WITH_PRIVATE_BUCKET" }
+  ]
+}

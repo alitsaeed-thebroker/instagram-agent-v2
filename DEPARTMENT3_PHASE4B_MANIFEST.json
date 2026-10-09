@@ -1,0 +1,51 @@
+{
+  "package": "Department 3 Phase 4B Advisory Intelligence Integration & Legacy Quarantine",
+  "non_destructive_to_existing_engines": true,
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4B_README.md",
+      "sha256": "defc5e6da60596127a86483e936ac2b798a45765c3b016f940a6bf0f9375635f",
+      "bytes": 2706
+    },
+    {
+      "path": "install_phase4b.py",
+      "sha256": "9f78a5679043349cae5660de161e7a7e5c4626b06da6f5b4dcddcb00f9f2fde9",
+      "bytes": 2581
+    },
+    {
+      "path": "src/department3/__init__.py",
+      "sha256": "3c52eedfe1db8facc2a6be24bfeba5443a98f24ab1770adb2b8d1e570ce48555",
+      "bytes": 1290
+    },
+    {
+      "path": "src/department3/advisory.py",
+      "sha256": "f0bc7f16eaf83ba05502dea40da6783e392143601e683ccdf62fe7743b97bf2f",
+      "bytes": 4761
+    },
+    {
+      "path": "src/department3/integration.py",
+      "sha256": "9c9ba6eba0c222e6f7e0931de631d2cbfacb9b19290b952d3485770e167a34f5",
+      "bytes": 1648
+    },
+    {
+      "path": "src/department3/legacy_quarantine.py",
+      "sha256": "58780186aea8bc39ba8f777226f187f8766ee4d54201c9b15f9b96b2b164edaa",
+      "bytes": 3139
+    },
+    {
+      "path": "tests/test_department3_advisory_integration.py",
+      "sha256": "6154b2eaa2e5bfeac4586b4b3ef83184954a8af6b7a4a6d5af47b0d7f2346230",
+      "bytes": 2761
+    },
+    {
+      "path": "tests/test_department3_legacy_quarantine.py",
+      "sha256": "c85386fcfb11b2211b8993f2385413144300ae0737bfa40dfcd253e2cbef9eb4",
+      "bytes": 1982
+    },
+    {
+      "path": "tests/test_department3_phase4b_contract.py",
+      "sha256": "fd50d1c8ef4ba95792e6949cc98005ec3d989fd726f18a84f60cf25bac54ff89",
+      "bytes": 1306
+    }
+  ]
+}

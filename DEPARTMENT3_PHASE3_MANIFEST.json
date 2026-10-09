@@ -1,0 +1,26 @@
+{
+  "package": "Department 3 Phase 3 Runtime Authority Trace",
+  "non_destructive": true,
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE3_README.md",
+      "sha256": "b605adecc4e05b8e65effbbc21db7701b65f48530d16c908332355968c062652",
+      "bytes": 1549
+    },
+    {
+      "path": "run_department3_phase3_runtime_authority_trace.py",
+      "sha256": "664c61b7fdacdc657b792b55ce010c26839e7e947bf5fa534ba51d6054678804",
+      "bytes": 172
+    },
+    {
+      "path": "tests/test_department3_phase3_runtime_authority_trace.py",
+      "sha256": "6ea4e753247daeaee43be543e7ad76aea246a57b1a93a666cfaed87716580ffc",
+      "bytes": 1313
+    },
+    {
+      "path": "tools/department3_phase3_runtime_authority_trace.py",
+      "sha256": "aa4a39b354f8627cd2a751fbe1549f04a112fb060af00f6a54f05100cbb3754a",
+      "bytes": 16698
+    }
+  ]
+}

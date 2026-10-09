@@ -1,0 +1,60 @@
+{
+  "package": "Department 3 Phase 5 Final Re-Audit & Freeze Certification",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE5_README.md",
+      "sha256": "ae0dda5f6414908b84f6400c1f55b76ebc3abec871c64ad8eec323ab8b2a2616",
+      "bytes": 1913
+    },
+    {
+      "path": "install_phase5_department3_freeze.py",
+      "sha256": "88a5139e421321a6802426007267b67bed27817c0b3bfed1e25468264d65dc00",
+      "bytes": 1715
+    },
+    {
+      "path": "run_department3_phase5_freeze_certification.py",
+      "sha256": "ff42fac30ad3d13941706383181ecb72f3e40f3e1e8496a887c1867b1bfa0822",
+      "bytes": 118
+    },
+    {
+      "path": "src/department3/phase5_freeze_certification.py",
+      "sha256": "9ea0014be00103a6f53bb5d3ea17fe59bdf6daa5d6486a3f04199a5f7f46eefe",
+      "bytes": 21153
+    },
+    {
+      "path": "tests/test_department3_phase5_authority.py",
+      "sha256": "f5d68ebbfea1264065299cd5083bdef4495d55636241220c41d1b08e2b1296c5",
+      "bytes": 385
+    },
+    {
+      "path": "tests/test_department3_phase5_boundary.py",
+      "sha256": "f2337b7a39572f4657ac46d01dcb314d5dc4fb6715ec87b2d07bb2da0bd1ca3b",
+      "bytes": 405
+    },
+    {
+      "path": "tests/test_department3_phase5_freeze.py",
+      "sha256": "b779bb5b87180304519f4f1a8fef9cf2ae7f7d98586b37ea81d2c443bc0d558f",
+      "bytes": 476
+    },
+    {
+      "path": "tests/test_department3_phase5_plan_integrity.py",
+      "sha256": "d52ff4fee85b7ba910e1083a721e2c3be7ed0a266054a3fa38dc709563112c85",
+      "bytes": 356
+    },
+    {
+      "path": "tests/test_department3_phase5_provenance.py",
+      "sha256": "808d24a9e07dc3b61564af2a7ec52fcc853968e2c9efb1e28fe2b27e41a84332",
+      "bytes": 484
+    },
+    {
+      "path": "tests/test_department3_phase5_strategy_quality.py",
+      "sha256": "b83f128e5c4323ca8bb71090e94cb3c425a2b544be37b9140a92ca6d4921dc73",
+      "bytes": 498
+    },
+    {
+      "path": "verify_phase5_department3_freeze.py",
+      "sha256": "1ad753441467848bbcebbef15c2b3e654a9d26a85f2170d78b63b8db5b48c12b",
+      "bytes": 1581
+    }
+  ]
+}

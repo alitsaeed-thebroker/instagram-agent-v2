@@ -1,0 +1,35 @@
+{
+  "package": "Department 3 Phase 4D.1 Canonical Planning Authority Cutover",
+  "files": [
+    {
+      "path": "DEPARTMENT3_PHASE4D1_README.md",
+      "sha256": "c6d4511cc33ca0cac954baeb3f055b2ca6b77d7fafc9b86e617f6867b3de9105",
+      "bytes": 1277
+    },
+    {
+      "path": "install_phase4d1.py",
+      "sha256": "4dd2f3e8b8d7789a647d35bdff18991011110aa4be0fce594db0d016654adeb3",
+      "bytes": 4184
+    },
+    {
+      "path": "src/department3/planning_cutover.py",
+      "sha256": "dfe6d97f5e0c2fedc63680ed0cc03b8d035619592e2d7c2273756a9b3716716e",
+      "bytes": 11086
+    },
+    {
+      "path": "tests/test_department3_phase4d1_entrypoint.py",
+      "sha256": "05f5ba28105234153627a9ec171fdb847e48b4ac42609cdd4555307ad52dc705",
+      "bytes": 630
+    },
+    {
+      "path": "tests/test_department3_planning_cutover.py",
+      "sha256": "6da53d15e1339fb9c63465bbed5547f5aa5df69ed2c0a3d9bbcbb95dc0967cf1",
+      "bytes": 1804
+    },
+    {
+      "path": "verify_phase4d1.py",
+      "sha256": "7978f1cb05566fbbe0b84ff363e99d3f84376ccff8ab997ecca8218f3bd181ad",
+      "bytes": 921
+    }
+  ]
+}
